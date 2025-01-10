@@ -1,6 +1,6 @@
-##¡Hola mundo!🖥💻
+¡Hola mundo!🖥💻
 
-##Un poco sobre mi:
+Aquí un poco sobre mi:
 
 - 🔭 Actualmente desarrollador react js.
 - 🌱 Me encuentro desarrollando mis habilidades y aprendiendo nuevos lenjuages y frameworks de programación.
