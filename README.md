@@ -1,6 +1,14 @@
-## Hi there 👋
+##¡Hola mundo!🖥💻
 
-<a href="https://app.daily.dev/elmonodev"><img src="https://api.daily.dev/devcards/v2/J16KOr1znPFZJUEksNZZd.png?type=default&r=1zr" width="356" alt="Víctor Méndez's Dev Card"/></a>
+##Un poco sobre mi:
+
+- 🔭 Actualmente desarrollador react js.
+- 🌱 Me encuentro desarrollando mis habilidades y aprendiendo nuevos lenjuages y frameworks de programación.
+- 👯 Busco llegar a colaborar con empresas de otros paises y de mi país también.
+- 📫 Puedes contactarme al correo: vicmendezc@hotmail.com
+- ⚡ Dato curioso sobre mi: Me encantan los simios 🐵
+
+ <a href="https://app.daily.dev/elmonodev"><img src="https://api.daily.dev/devcards/v2/J16KOr1znPFZJUEksNZZd.png?type=default&r=1zr" width="356" alt="Víctor Méndez's Dev Card"/></a>
 
 
 <!--
