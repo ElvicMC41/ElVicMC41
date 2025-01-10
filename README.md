@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<a href="https://app.daily.dev/elmonodev"><img src="https://api.daily.dev/devcards/v2/J16KOr1znPFZJUEksNZZd.png?type=default&r=1zr" width="356" alt="Víctor Méndez's Dev Card"/></a>
+
+
 <!--
 **ElvicMC41/ElVicMC41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
